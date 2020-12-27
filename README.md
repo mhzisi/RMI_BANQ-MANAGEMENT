@@ -1,4 +1,4 @@
-# RMI_BANQ-MANAGMENT
+# RMI_BANQ-MANAGEMENT
 with this code you can :
 1-add an account
 2-read your sold 
