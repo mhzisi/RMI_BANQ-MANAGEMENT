@@ -34,6 +34,8 @@ public class Client {
                     service1.lireSolde(obj);
                     break;
                 case 0: System.out.println("good bye");
+                        System.exit(0);
+                         break;
   }
             }
         } catch (Exception e) {
